@@ -24,7 +24,9 @@ body {
     color: var(--text-color);
 }
 
+
 /* navbar */
+
  header {
     position: fixed;
     width: 100%;
@@ -97,7 +99,9 @@ body {
     display: none;
 } 
 
+
 /* home */
+
 section {
     padding: 70px 14% 60px;
 }
@@ -193,6 +197,7 @@ header.sticky {
 .container-box a:hover {
     color: var(--main-color);
 }
+
 
 /* About us */
 
@@ -354,7 +359,9 @@ header.sticky {
     margin-right: 3px;
 }
 
+
 /* Contact us */
+
 .contact-content {
     display: flex;
     align-items: center;
@@ -406,7 +413,9 @@ header.sticky {
     color: var(--main-color);
 }
 
+
 /* Fitur auto scroll */
+
 .scroll {
     position: fixed;
     bottom: 2.2rem;
@@ -420,6 +429,7 @@ header.sticky {
     padding: 10px;
     border-radius: 3rem;
 }
+
 
 /* Responsif */
 
